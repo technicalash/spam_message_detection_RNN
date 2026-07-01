@@ -110,3 +110,8 @@ For this dataset, TF-IDF combined with an RNN achieved significantly higher accu
 
 This project was completed primarily to gain practical experience with RNNs, embeddings, sequence processing, and NLP workflows in PyTorch.
 
+## 🚀 Latest Update
+
+- Added an interactive web interface using **Streamlit** for real-time spam message prediction.
+- Integrated the trained RNN model with the saved **TF-IDF vectorizer** for instant inference.
+- Displays the predicted class (Spam/Ham) along with the model's confidence score.
